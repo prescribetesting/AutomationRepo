@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="com.heyprescribe.testcase.PatientAppoitnmentTest">
+        <methods>
+          <include name="verifyThePrescriptionReportDownloadLink"/>
+          <include name="verifyTheVideoLinkOnAppointmentConfirmationPage"/>
+          <include name="verifyThePatientAppointmenOnAllAppointmenPage"/>
+          <include name="verifyThePatientUploadedPrescriptionFile"/>
+          <include name="verifyThePatientDetailOnPrescribePage"/>
+          <include name="verifyThePatientInformationOnAppoitnmentConfirmationPage"/>
+          <include name="verifyTheDoctorNameOnAppoitnmentConfirmationpage"/>
+          <include name="verifyTheUploadedFileOnAppointmentConfirmationPage"/>
+          <include name="verifyThePrescribeLogin"/>
+          <include name="verifythePatientDashboard"/>
+          <include name="verifyTheGeneratePrescriptionReportFunctionality"/>
+          <include name="saveThePhysicianPrescription"/>
+          <include name="verifyTheDateAndSlotOnAppointmentConfirmationPage"/>
+          <include name="verifyThePrescriptionReport"/>
+          <include name="verifyTheSucesMsgAfterUploadingTheFile"/>
+          <include name="verifyPatientIsAbleToBookTheAppoitnment"/>
+          <include name="verifyTheConnectToVideoPopUpOnPrescribePage"/>
+          <include name="verifyTheStatusAfterGeneratingThePrescription"/>
+        </methods>
+      </class> <!-- com.heyprescribe.testcase.PatientAppoitnmentTest -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

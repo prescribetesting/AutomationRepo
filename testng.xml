@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" name="Prescribe" parallel="tests">
+
+ <listeners>
+ <listener class-name="com.heyprescribe.listeners.ExtentRepoertListeners"/>
+ </listeners>
+  <test name="PatientAppoitnment">
+   <parameter name = "browser" value="chrome"/>
+    <classes>
+      <class name="com.heyprescribe.testcase.PatientAppoitnmentTest"/>
+    </classes>
+  </test> <!-- PatientAppoitnment -->
+  
+</suite> <!-- Prescribe -->
