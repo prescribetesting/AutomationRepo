@@ -15,7 +15,7 @@ public class WebElementExtension extends BasePage {
 	public static WebElement getElement(By locator) {
 		WebElement element = null;
 		try {
-			element = driver.findElement(locator);
+			element = getDriver().findElement(locator);
 		} catch (Exception e) {
 			log.debug("An exception occurs while getting element" + e.getMessage());
 		}
@@ -26,7 +26,7 @@ public class WebElementExtension extends BasePage {
 
 		List<WebElement> element = null;
 		try {
-			element = driver.findElements(locator);
+			element = getDriver().findElements(locator);
 		} catch (Exception e) {
 			log.debug("An exception occurs while getting elements" + e.getMessage());
 		}
@@ -83,7 +83,7 @@ public class WebElementExtension extends BasePage {
 
 	public static void jsWaitForPageLoad() {
 		try {
-			JavascriptExecutor js = (JavascriptExecutor) driver;
+			JavascriptExecutor js = (JavascriptExecutor) getDriver();
 			js.executeScript("return document.readyState").equals("complete");
 		} catch (Exception e) {
 			log.debug("An exception occurs while waiting for page load" + e.getMessage());
@@ -93,7 +93,7 @@ public class WebElementExtension extends BasePage {
 	public static void jsClick(By locator) {
 		try {
 			WebElement ele = getElement(locator);
-			JavascriptExecutor js = (JavascriptExecutor) driver;
+			JavascriptExecutor js = (JavascriptExecutor) getDriver();
 			js.executeScript("arguments[0].click();", ele);
 		} catch (Exception e) {
 			log.debug("An exception occurs while clicking on WebElement using JavascriptExecutor" + e.getMessage());
@@ -103,7 +103,7 @@ public class WebElementExtension extends BasePage {
 	public static void jsScroll(By locator) {
 		try {
 			WebElement ele = getElement(locator);
-			JavascriptExecutor js = (JavascriptExecutor) driver;
+			JavascriptExecutor js = (JavascriptExecutor) getDriver();
 			js.executeScript("arguments[0].scrollIntoView();", ele);
 		} catch (Exception e) {
 			log.debug("An exception occurs while scrolling the webpage using JavascriptExecutor" + e.getMessage());
@@ -113,7 +113,7 @@ public class WebElementExtension extends BasePage {
 	public static void moveToElement(By locator) {
 		try {
 			WebElement ele = getElement(locator);
-			Actions action = new Actions(driver);
+			Actions action = new Actions(getDriver());
 			action.moveToElement(ele).build().perform();
 		} catch (Exception e) {
 			log.debug("An exception occurs while using moveToElement method" + e.getMessage());

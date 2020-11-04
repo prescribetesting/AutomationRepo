@@ -1,0 +1,726 @@
+20/10/2020 22:44:41 devpinoyLogger An exception occurs while getting elementno such element: Unable to locate element: {"method":"css selector","selector":"div.jss15 button"}
+  (Session info: chrome=86.0.4240.75)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'AMARENDRA', ip: '192.168.144.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.75, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\amarendra.singh\Ap...}, goog:chromeOptions: {debuggerAddress: localhost:59674}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 67dd22f67aa959452d649b38d299fb20
+*** Element info: {Using=css selector, value=div.jss15 button}
+20/10/2020 22:44:41 devpinoyLogger An exception occurs while clicking on WebElementnull
+20/10/2020 22:44:41 devpinoyLogger An exception occurs while getting elementno such element: Unable to locate element: {"method":"xpath","selector":"//span[contains(text(),'Edit Slots')]"}
+  (Session info: chrome=86.0.4240.75)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'AMARENDRA', ip: '192.168.144.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.75, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\amarendra.singh\Ap...}, goog:chromeOptions: {debuggerAddress: localhost:59674}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 67dd22f67aa959452d649b38d299fb20
+*** Element info: {Using=xpath, value=//span[contains(text(),'Edit Slots')]}
+20/10/2020 22:44:41 devpinoyLogger An exception occurs while scrolling the webpage using JavascriptExecutorjavascript error: Cannot read property 'scrollIntoView' of null
+  (Session info: chrome=86.0.4240.75)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'AMARENDRA', ip: '192.168.144.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.75, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\amarendra.singh\Ap...}, goog:chromeOptions: {debuggerAddress: localhost:59674}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 67dd22f67aa959452d649b38d299fb20
+20/10/2020 22:44:41 devpinoyLogger An exception occurs while getting elementno such element: Unable to locate element: {"method":"xpath","selector":"//span[contains(text(),'Edit Slots')]"}
+  (Session info: chrome=86.0.4240.75)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'AMARENDRA', ip: '192.168.144.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.75, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\amarendra.singh\Ap...}, goog:chromeOptions: {debuggerAddress: localhost:59674}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 67dd22f67aa959452d649b38d299fb20
+*** Element info: {Using=xpath, value=//span[contains(text(),'Edit Slots')]}
+20/10/2020 22:44:41 devpinoyLogger An exception occurs while clicking on WebElementnull
+20/10/2020 22:51:09 devpinoyLogger An exception occurs while getting elementno such element: Unable to locate element: {"method":"css selector","selector":"div.jss15 button"}
+  (Session info: chrome=86.0.4240.75)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'AMARENDRA', ip: '192.168.144.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.75, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\amarendra.singh\Ap...}, goog:chromeOptions: {debuggerAddress: localhost:59782}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 7c80ce58e2312cb4a1d51fdf6b659f35
+*** Element info: {Using=css selector, value=div.jss15 button}
+20/10/2020 22:51:09 devpinoyLogger An exception occurs while clicking on WebElementnull
+20/10/2020 22:51:09 devpinoyLogger An exception occurs while getting elementno such element: Unable to locate element: {"method":"xpath","selector":"//span[contains(text(),'Edit Slots')]"}
+  (Session info: chrome=86.0.4240.75)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'AMARENDRA', ip: '192.168.144.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.75, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\amarendra.singh\Ap...}, goog:chromeOptions: {debuggerAddress: localhost:59782}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 7c80ce58e2312cb4a1d51fdf6b659f35
+*** Element info: {Using=xpath, value=//span[contains(text(),'Edit Slots')]}
+20/10/2020 22:51:09 devpinoyLogger An exception occurs while scrolling the webpage using JavascriptExecutorjavascript error: Cannot read property 'scrollIntoView' of null
+  (Session info: chrome=86.0.4240.75)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'AMARENDRA', ip: '192.168.144.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.75, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\amarendra.singh\Ap...}, goog:chromeOptions: {debuggerAddress: localhost:59782}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 7c80ce58e2312cb4a1d51fdf6b659f35
+20/10/2020 22:51:09 devpinoyLogger An exception occurs while getting elementno such element: Unable to locate element: {"method":"xpath","selector":"//span[contains(text(),'Edit Slots')]"}
+  (Session info: chrome=86.0.4240.75)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'AMARENDRA', ip: '192.168.144.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.75, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\amarendra.singh\Ap...}, goog:chromeOptions: {debuggerAddress: localhost:59782}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 7c80ce58e2312cb4a1d51fdf6b659f35
+*** Element info: {Using=xpath, value=//span[contains(text(),'Edit Slots')]}
+20/10/2020 22:51:09 devpinoyLogger An exception occurs while clicking on WebElementnull
+20/10/2020 22:52:21 devpinoyLogger An exception occurs while getting elementno such element: Unable to locate element: {"method":"css selector","selector":"div.jss15 button"}
+  (Session info: chrome=86.0.4240.75)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'AMARENDRA', ip: '192.168.144.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.75, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\amarendra.singh\Ap...}, goog:chromeOptions: {debuggerAddress: localhost:59843}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: d9aeb8aae137efd64faba9aefa7c540b
+*** Element info: {Using=css selector, value=div.jss15 button}
+20/10/2020 22:52:21 devpinoyLogger An exception occurs while clicking on WebElementnull
+20/10/2020 22:52:21 devpinoyLogger An exception occurs while getting elementno such element: Unable to locate element: {"method":"xpath","selector":"//span[contains(text(),'Edit Slots')]"}
+  (Session info: chrome=86.0.4240.75)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'AMARENDRA', ip: '192.168.144.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.75, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\amarendra.singh\Ap...}, goog:chromeOptions: {debuggerAddress: localhost:59843}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: d9aeb8aae137efd64faba9aefa7c540b
+*** Element info: {Using=xpath, value=//span[contains(text(),'Edit Slots')]}
+20/10/2020 22:52:21 devpinoyLogger An exception occurs while scrolling the webpage using JavascriptExecutorjavascript error: Cannot read property 'scrollIntoView' of null
+  (Session info: chrome=86.0.4240.75)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'AMARENDRA', ip: '192.168.144.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.75, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\amarendra.singh\Ap...}, goog:chromeOptions: {debuggerAddress: localhost:59843}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: d9aeb8aae137efd64faba9aefa7c540b
+20/10/2020 22:52:21 devpinoyLogger An exception occurs while getting elementno such element: Unable to locate element: {"method":"xpath","selector":"//span[contains(text(),'Edit Slots')]"}
+  (Session info: chrome=86.0.4240.75)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'AMARENDRA', ip: '192.168.144.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.75, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\amarendra.singh\Ap...}, goog:chromeOptions: {debuggerAddress: localhost:59843}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: d9aeb8aae137efd64faba9aefa7c540b
+*** Element info: {Using=xpath, value=//span[contains(text(),'Edit Slots')]}
+20/10/2020 22:52:21 devpinoyLogger An exception occurs while clicking on WebElementnull
+20/10/2020 22:55:32 devpinoyLogger An exception occurs while getting elementno such element: Unable to locate element: {"method":"css selector","selector":"div.jss15 button"}
+  (Session info: chrome=86.0.4240.75)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'AMARENDRA', ip: '192.168.144.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.75, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\amarendra.singh\Ap...}, goog:chromeOptions: {debuggerAddress: localhost:59883}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 45cafd686d1a0da61eaf87d5518c7adf
+*** Element info: {Using=css selector, value=div.jss15 button}
+20/10/2020 22:55:32 devpinoyLogger An exception occurs while clicking on WebElementnull
+20/10/2020 22:55:32 devpinoyLogger An exception occurs while getting elementno such element: Unable to locate element: {"method":"xpath","selector":"//span[contains(text(),'Edit Slots')]"}
+  (Session info: chrome=86.0.4240.75)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'AMARENDRA', ip: '192.168.144.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.75, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\amarendra.singh\Ap...}, goog:chromeOptions: {debuggerAddress: localhost:59883}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 45cafd686d1a0da61eaf87d5518c7adf
+*** Element info: {Using=xpath, value=//span[contains(text(),'Edit Slots')]}
+20/10/2020 22:55:32 devpinoyLogger An exception occurs while scrolling the webpage using JavascriptExecutorjavascript error: Cannot read property 'scrollIntoView' of null
+  (Session info: chrome=86.0.4240.75)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'AMARENDRA', ip: '192.168.144.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.75, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\amarendra.singh\Ap...}, goog:chromeOptions: {debuggerAddress: localhost:59883}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 45cafd686d1a0da61eaf87d5518c7adf
+20/10/2020 22:55:32 devpinoyLogger An exception occurs while getting elementno such element: Unable to locate element: {"method":"xpath","selector":"//span[contains(text(),'Edit Slots')]"}
+  (Session info: chrome=86.0.4240.75)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'AMARENDRA', ip: '192.168.144.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.75, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\amarendra.singh\Ap...}, goog:chromeOptions: {debuggerAddress: localhost:59883}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 45cafd686d1a0da61eaf87d5518c7adf
+*** Element info: {Using=xpath, value=//span[contains(text(),'Edit Slots')]}
+20/10/2020 22:55:32 devpinoyLogger An exception occurs while clicking on WebElementnull
+20/10/2020 22:59:39 devpinoyLogger An exception occurs while getting elementno such element: Unable to locate element: {"method":"css selector","selector":"div.jss15 button"}
+  (Session info: chrome=86.0.4240.75)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'AMARENDRA', ip: '192.168.144.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.75, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\amarendra.singh\Ap...}, goog:chromeOptions: {debuggerAddress: localhost:59935}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 0dc10029bebcd33567a22a04d9a81a1a
+*** Element info: {Using=css selector, value=div.jss15 button}
+20/10/2020 22:59:39 devpinoyLogger An exception occurs while clicking on WebElementnull
+20/10/2020 22:59:39 devpinoyLogger An exception occurs while getting elementno such element: Unable to locate element: {"method":"xpath","selector":"//span[contains(text(),'Edit Slots')]"}
+  (Session info: chrome=86.0.4240.75)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'AMARENDRA', ip: '192.168.144.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.75, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\amarendra.singh\Ap...}, goog:chromeOptions: {debuggerAddress: localhost:59935}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 0dc10029bebcd33567a22a04d9a81a1a
+*** Element info: {Using=xpath, value=//span[contains(text(),'Edit Slots')]}
+20/10/2020 22:59:39 devpinoyLogger An exception occurs while scrolling the webpage using JavascriptExecutorjavascript error: Cannot read property 'scrollIntoView' of null
+  (Session info: chrome=86.0.4240.75)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'AMARENDRA', ip: '192.168.144.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.75, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\amarendra.singh\Ap...}, goog:chromeOptions: {debuggerAddress: localhost:59935}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 0dc10029bebcd33567a22a04d9a81a1a
+20/10/2020 22:59:39 devpinoyLogger An exception occurs while getting elementno such element: Unable to locate element: {"method":"xpath","selector":"//span[contains(text(),'Edit Slots')]"}
+  (Session info: chrome=86.0.4240.75)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'AMARENDRA', ip: '192.168.144.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.75, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\amarendra.singh\Ap...}, goog:chromeOptions: {debuggerAddress: localhost:59935}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 0dc10029bebcd33567a22a04d9a81a1a
+*** Element info: {Using=xpath, value=//span[contains(text(),'Edit Slots')]}
+20/10/2020 22:59:39 devpinoyLogger An exception occurs while clicking on WebElementnull
+20/10/2020 23:01:25 devpinoyLogger An exception occurs while getting elementno such element: Unable to locate element: {"method":"css selector","selector":"div.jss15 button"}
+  (Session info: chrome=86.0.4240.75)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'AMARENDRA', ip: '192.168.144.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.75, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\amarendra.singh\Ap...}, goog:chromeOptions: {debuggerAddress: localhost:60008}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 214b40d575ee103771358599dc48fc7b
+*** Element info: {Using=css selector, value=div.jss15 button}
+20/10/2020 23:01:25 devpinoyLogger An exception occurs while clicking on WebElementnull
+20/10/2020 23:01:25 devpinoyLogger An exception occurs while getting elementno such element: Unable to locate element: {"method":"xpath","selector":"//span[contains(text(),'Edit Slots')]"}
+  (Session info: chrome=86.0.4240.75)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'AMARENDRA', ip: '192.168.144.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.75, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\amarendra.singh\Ap...}, goog:chromeOptions: {debuggerAddress: localhost:60008}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 214b40d575ee103771358599dc48fc7b
+*** Element info: {Using=xpath, value=//span[contains(text(),'Edit Slots')]}
+20/10/2020 23:01:25 devpinoyLogger An exception occurs while scrolling the webpage using JavascriptExecutorjavascript error: Cannot read property 'scrollIntoView' of null
+  (Session info: chrome=86.0.4240.75)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'AMARENDRA', ip: '192.168.144.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.75, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\amarendra.singh\Ap...}, goog:chromeOptions: {debuggerAddress: localhost:60008}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 214b40d575ee103771358599dc48fc7b
+20/10/2020 23:01:25 devpinoyLogger An exception occurs while getting elementno such element: Unable to locate element: {"method":"xpath","selector":"//span[contains(text(),'Edit Slots')]"}
+  (Session info: chrome=86.0.4240.75)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'AMARENDRA', ip: '192.168.144.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.75, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\amarendra.singh\Ap...}, goog:chromeOptions: {debuggerAddress: localhost:60008}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 214b40d575ee103771358599dc48fc7b
+*** Element info: {Using=xpath, value=//span[contains(text(),'Edit Slots')]}
+20/10/2020 23:01:25 devpinoyLogger An exception occurs while clicking on WebElementnull
+20/10/2020 23:06:04 devpinoyLogger An exception occurs while getting elementno such element: Unable to locate element: {"method":"xpath","selector":"//a[contains(text(),'Dr. Doctor 2')]"}
+  (Session info: chrome=86.0.4240.75)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'AMARENDRA', ip: '192.168.144.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.75, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\amarendra.singh\Ap...}, goog:chromeOptions: {debuggerAddress: localhost:60286}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: b67f2b179c7e487e89bede1fb78585ac
+*** Element info: {Using=xpath, value=//a[contains(text(),'Dr. Doctor 2')]}
+20/10/2020 23:06:04 devpinoyLogger An exception occurs while clicking on WebElementnull
+21/10/2020 08:18:56 devpinoyLogger An exception occurs while getting elementno such element: Unable to locate element: {"method":"xpath","selector":"//a[contains(text(),'Dr. Doctor 2')]"}
+  (Session info: chrome=86.0.4240.75)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'AMARENDRA', ip: '192.168.144.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.75, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\amarendra.singh\Ap...}, goog:chromeOptions: {debuggerAddress: localhost:54863}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 6a3df80f0b4aa675b96fcd830772d77e
+*** Element info: {Using=xpath, value=//a[contains(text(),'Dr. Doctor 2')]}
+21/10/2020 08:18:56 devpinoyLogger An exception occurs while clicking on WebElementnull
+21/10/2020 15:07:08 devpinoyLogger An exception occurs while getting elementno such element: Unable to locate element: {"method":"css selector","selector":"input[placeholder='Start']"}
+  (Session info: chrome=86.0.4240.75)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'AMARENDRA', ip: '192.168.144.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.75, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\amarendra.singh\Ap...}, goog:chromeOptions: {debuggerAddress: localhost:51777}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: b6d54cac9858d442e19270151c7822a0
+*** Element info: {Using=css selector, value=input[placeholder='Start']}
+21/10/2020 15:07:08 devpinoyLogger An exception occurs while using Sendkeysnull
+21/10/2020 15:07:08 devpinoyLogger An exception occurs while getting elementno such element: Unable to locate element: {"method":"css selector","selector":"input[placeholder='End']"}
+  (Session info: chrome=86.0.4240.75)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'AMARENDRA', ip: '192.168.144.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.75, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\amarendra.singh\Ap...}, goog:chromeOptions: {debuggerAddress: localhost:51777}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: b6d54cac9858d442e19270151c7822a0
+*** Element info: {Using=css selector, value=input[placeholder='End']}
+21/10/2020 15:07:08 devpinoyLogger An exception occurs while using Sendkeysnull
+21/10/2020 15:14:44 devpinoyLogger An exception occurs while getting elementno such element: Unable to locate element: {"method":"css selector","selector":"input[placeholder='Start']"}
+  (Session info: chrome=86.0.4240.75)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'AMARENDRA', ip: '192.168.144.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.75, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\amarendra.singh\Ap...}, goog:chromeOptions: {debuggerAddress: localhost:52026}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 519b2805eb3166c2f3e4dd217a0cc143
+*** Element info: {Using=css selector, value=input[placeholder='Start']}
+21/10/2020 15:14:44 devpinoyLogger An exception occurs while using Sendkeysnull
+21/10/2020 15:14:44 devpinoyLogger An exception occurs while getting elementno such element: Unable to locate element: {"method":"css selector","selector":"input[placeholder='End']"}
+  (Session info: chrome=86.0.4240.75)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'AMARENDRA', ip: '192.168.144.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.75, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\amarendra.singh\Ap...}, goog:chromeOptions: {debuggerAddress: localhost:52026}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 519b2805eb3166c2f3e4dd217a0cc143
+*** Element info: {Using=css selector, value=input[placeholder='End']}
+21/10/2020 15:14:44 devpinoyLogger An exception occurs while using Sendkeysnull
+21/10/2020 15:24:57 devpinoyLogger An exception occurs while getting elementno such element: Unable to locate element: {"method":"css selector","selector":"input[placeholder='Start']"}
+  (Session info: chrome=86.0.4240.75)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'AMARENDRA', ip: '192.168.43.14', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.75, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\amarendra.singh\Ap...}, goog:chromeOptions: {debuggerAddress: localhost:52262}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 3207635ada8c30b1cc536d227a278f0a
+*** Element info: {Using=css selector, value=input[placeholder='Start']}
+21/10/2020 15:24:57 devpinoyLogger An exception occurs while using Sendkeysnull
+21/10/2020 15:24:57 devpinoyLogger An exception occurs while getting elementno such element: Unable to locate element: {"method":"css selector","selector":"input[placeholder='End']"}
+  (Session info: chrome=86.0.4240.75)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'AMARENDRA', ip: '192.168.43.14', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.75, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\amarendra.singh\Ap...}, goog:chromeOptions: {debuggerAddress: localhost:52262}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 3207635ada8c30b1cc536d227a278f0a
+*** Element info: {Using=css selector, value=input[placeholder='End']}
+21/10/2020 15:24:57 devpinoyLogger An exception occurs while using Sendkeysnull
+21/10/2020 15:27:10 devpinoyLogger An exception occurs while getting elementno such element: Unable to locate element: {"method":"css selector","selector":"input[placeholder='Start']"}
+  (Session info: chrome=86.0.4240.75)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'AMARENDRA', ip: '192.168.43.14', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.75, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\amarendra.singh\Ap...}, goog:chromeOptions: {debuggerAddress: localhost:52328}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 9a65f20adf29390236dcc2eb49b86df5
+*** Element info: {Using=css selector, value=input[placeholder='Start']}
+21/10/2020 15:27:10 devpinoyLogger An exception occurs while using Sendkeysnull
+21/10/2020 15:27:10 devpinoyLogger An exception occurs while getting elementno such element: Unable to locate element: {"method":"css selector","selector":"input[placeholder='End']"}
+  (Session info: chrome=86.0.4240.75)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'AMARENDRA', ip: '192.168.43.14', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.75, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\amarendra.singh\Ap...}, goog:chromeOptions: {debuggerAddress: localhost:52328}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 9a65f20adf29390236dcc2eb49b86df5
+*** Element info: {Using=css selector, value=input[placeholder='End']}
+21/10/2020 15:27:10 devpinoyLogger An exception occurs while using Sendkeysnull
+21/10/2020 15:29:38 devpinoyLogger An exception occurs while getting elementno such element: Unable to locate element: {"method":"css selector","selector":"input[placeholder='Start']"}
+  (Session info: chrome=86.0.4240.75)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'AMARENDRA', ip: '192.168.43.14', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.75, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\amarendra.singh\Ap...}, goog:chromeOptions: {debuggerAddress: localhost:52372}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 5ee6cdf1c4c71f32fa78b62a5fb5d030
+*** Element info: {Using=css selector, value=input[placeholder='Start']}
+21/10/2020 15:29:38 devpinoyLogger An exception occurs while using Sendkeysnull
+21/10/2020 15:29:38 devpinoyLogger An exception occurs while getting elementno such element: Unable to locate element: {"method":"css selector","selector":"input[placeholder='End']"}
+  (Session info: chrome=86.0.4240.75)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'AMARENDRA', ip: '192.168.43.14', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.75, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\amarendra.singh\Ap...}, goog:chromeOptions: {debuggerAddress: localhost:52372}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 5ee6cdf1c4c71f32fa78b62a5fb5d030
+*** Element info: {Using=css selector, value=input[placeholder='End']}
+21/10/2020 15:29:38 devpinoyLogger An exception occurs while using Sendkeysnull
+21/10/2020 15:31:15 devpinoyLogger An exception occurs while getting elementno such element: Unable to locate element: {"method":"css selector","selector":"input[placeholder='Start']"}
+  (Session info: chrome=86.0.4240.75)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'AMARENDRA', ip: '192.168.43.14', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.75, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\amarendra.singh\Ap...}, goog:chromeOptions: {debuggerAddress: localhost:52423}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 0138dcce7891490aaa237960254b8820
+*** Element info: {Using=css selector, value=input[placeholder='Start']}
+21/10/2020 15:31:15 devpinoyLogger An exception occurs while using Sendkeysnull
+21/10/2020 15:31:15 devpinoyLogger An exception occurs while getting elementno such element: Unable to locate element: {"method":"css selector","selector":"input[placeholder='End']"}
+  (Session info: chrome=86.0.4240.75)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'AMARENDRA', ip: '192.168.43.14', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.75, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\amarendra.singh\Ap...}, goog:chromeOptions: {debuggerAddress: localhost:52423}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 0138dcce7891490aaa237960254b8820
+*** Element info: {Using=css selector, value=input[placeholder='End']}
+21/10/2020 15:31:15 devpinoyLogger An exception occurs while using Sendkeysnull
+23/10/2020 22:36:34 devpinoyLogger An exception occurs while getting elementno such element: Unable to locate element: {"method":"xpath","selector":"//div[contains(@class,'unfocused') and text()='23']"}
+  (Session info: chrome=86.0.4240.75)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'AMARENDRA', ip: '192.168.144.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.75, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\amarendra.singh\Ap...}, goog:chromeOptions: {debuggerAddress: localhost:58532}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 7fc283e234d08f2b5b12679ef80274fd
+*** Element info: {Using=xpath, value=//div[contains(@class,'unfocused') and text()='23']}
+23/10/2020 22:36:34 devpinoyLogger An exception occurs while clicking on WebElementnull
+23/10/2020 22:36:34 devpinoyLogger An exception occurs while getting elementno such element: Unable to locate element: {"method":"xpath","selector":"//button[text()='Save']"}
+  (Session info: chrome=86.0.4240.75)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'AMARENDRA', ip: '192.168.144.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.75, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\amarendra.singh\Ap...}, goog:chromeOptions: {debuggerAddress: localhost:58532}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 7fc283e234d08f2b5b12679ef80274fd
+*** Element info: {Using=xpath, value=//button[text()='Save']}
+23/10/2020 22:36:34 devpinoyLogger An exception occurs while clicking on WebElementnull
+23/10/2020 22:37:05 devpinoyLogger An exception occurs while getting elementno such element: Unable to locate element: {"method":"xpath","selector":"//header/div[1]/div[1]/div[1]/div[2]/div[1]/button[1]/span[1]/*[2]"}
+  (Session info: chrome=86.0.4240.75)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'AMARENDRA', ip: '192.168.144.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.75, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\amarendra.singh\Ap...}, goog:chromeOptions: {debuggerAddress: localhost:58532}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 7fc283e234d08f2b5b12679ef80274fd
+*** Element info: {Using=xpath, value=//header/div[1]/div[1]/div[1]/div[2]/div[1]/button[1]/span[1]/*[2]}
+23/10/2020 22:37:05 devpinoyLogger An exception occurs while clicking on WebElementnull
+23/10/2020 22:37:05 devpinoyLogger An exception occurs while getting elementno such element: Unable to locate element: {"method":"xpath","selector":"//span[contains(text(),'Edit Slots')]"}
+  (Session info: chrome=86.0.4240.75)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'AMARENDRA', ip: '192.168.144.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.75, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\amarendra.singh\Ap...}, goog:chromeOptions: {debuggerAddress: localhost:58532}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 7fc283e234d08f2b5b12679ef80274fd
+*** Element info: {Using=xpath, value=//span[contains(text(),'Edit Slots')]}
+23/10/2020 22:37:05 devpinoyLogger An exception occurs while scrolling the webpage using JavascriptExecutorjavascript error: Cannot read property 'scrollIntoView' of null
+  (Session info: chrome=86.0.4240.75)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'AMARENDRA', ip: '192.168.144.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.75, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\amarendra.singh\Ap...}, goog:chromeOptions: {debuggerAddress: localhost:58532}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 7fc283e234d08f2b5b12679ef80274fd
+23/10/2020 22:37:05 devpinoyLogger An exception occurs while getting elementno such element: Unable to locate element: {"method":"xpath","selector":"//span[contains(text(),'Edit Slots')]"}
+  (Session info: chrome=86.0.4240.75)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'AMARENDRA', ip: '192.168.144.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.75, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\amarendra.singh\Ap...}, goog:chromeOptions: {debuggerAddress: localhost:58532}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 7fc283e234d08f2b5b12679ef80274fd
+*** Element info: {Using=xpath, value=//span[contains(text(),'Edit Slots')]}
+23/10/2020 22:37:05 devpinoyLogger An exception occurs while clicking on WebElementnull
+23/10/2020 23:09:53 devpinoyLogger An exception occurs while getting elementno such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=86.0.4240.75)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'AMARENDRA', ip: '192.168.144.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.75, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\amarendra.singh\Ap...}, goog:chromeOptions: {debuggerAddress: localhost:59113}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 77e69033e3a8e1b6e6a2f705eebc2ef6
+*** Element info: {Using=xpath, value=//header/div[1]/div[1]/div[1]/div[2]/div[1]/button[1]/span[1]/*[2]}
+23/10/2020 23:09:53 devpinoyLogger An exception occurs while clicking on WebElementnull
+23/10/2020 23:09:53 devpinoyLogger An exception occurs while getting elementno such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=86.0.4240.75)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'AMARENDRA', ip: '192.168.144.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.75, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\amarendra.singh\Ap...}, goog:chromeOptions: {debuggerAddress: localhost:59113}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 77e69033e3a8e1b6e6a2f705eebc2ef6
+*** Element info: {Using=xpath, value=//span[contains(text(),'Edit Slots')]}
+23/10/2020 23:09:53 devpinoyLogger An exception occurs while scrolling the webpage using JavascriptExecutorno such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=86.0.4240.75)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'AMARENDRA', ip: '192.168.144.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.75, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\amarendra.singh\Ap...}, goog:chromeOptions: {debuggerAddress: localhost:59113}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 77e69033e3a8e1b6e6a2f705eebc2ef6
+23/10/2020 23:09:53 devpinoyLogger An exception occurs while getting elementno such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=86.0.4240.75)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'AMARENDRA', ip: '192.168.144.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.75, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\amarendra.singh\Ap...}, goog:chromeOptions: {debuggerAddress: localhost:59113}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 77e69033e3a8e1b6e6a2f705eebc2ef6
+*** Element info: {Using=xpath, value=//span[contains(text(),'Edit Slots')]}
+23/10/2020 23:09:53 devpinoyLogger An exception occurs while clicking on WebElementnull
+23/10/2020 23:10:14 devpinoyLogger An exception occurs while getting elementno such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=86.0.4240.75)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'AMARENDRA', ip: '192.168.144.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.75, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\amarendra.singh\Ap...}, goog:chromeOptions: {debuggerAddress: localhost:59113}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 77e69033e3a8e1b6e6a2f705eebc2ef6
+*** Element info: {Using=xpath, value=//header/div[1]/div[1]/div[1]/div[2]/div[1]/button[1]/span[1]/*[2]}
+23/10/2020 23:10:14 devpinoyLogger An exception occurs while clicking on WebElementnull
+23/10/2020 23:10:14 devpinoyLogger An exception occurs while getting elementno such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=86.0.4240.75)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'AMARENDRA', ip: '192.168.144.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.75, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\amarendra.singh\Ap...}, goog:chromeOptions: {debuggerAddress: localhost:59113}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 77e69033e3a8e1b6e6a2f705eebc2ef6
+*** Element info: {Using=xpath, value=//span[contains(text(),'Edit Slots')]}
+23/10/2020 23:10:14 devpinoyLogger An exception occurs while scrolling the webpage using JavascriptExecutorno such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=86.0.4240.75)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'AMARENDRA', ip: '192.168.144.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.75, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\amarendra.singh\Ap...}, goog:chromeOptions: {debuggerAddress: localhost:59113}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 77e69033e3a8e1b6e6a2f705eebc2ef6
+23/10/2020 23:10:14 devpinoyLogger An exception occurs while getting elementno such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=86.0.4240.75)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'AMARENDRA', ip: '192.168.144.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.75, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\amarendra.singh\Ap...}, goog:chromeOptions: {debuggerAddress: localhost:59113}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 77e69033e3a8e1b6e6a2f705eebc2ef6
+*** Element info: {Using=xpath, value=//span[contains(text(),'Edit Slots')]}
+23/10/2020 23:10:14 devpinoyLogger An exception occurs while clicking on WebElementnull
+28/10/2020 21:03:21 devpinoyLogger An exception occurs while getting elementno such element: Unable to locate element: {"method":"xpath","selector":"//div[contains(@class,'unfocused') and text()='28']"}
+  (Session info: chrome=86.0.4240.111)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'AMARENDRA', ip: '192.168.144.8', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.111, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\amarendra.singh\Ap...}, goog:chromeOptions: {debuggerAddress: localhost:64041}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: a140124a610248f74b9f0b9bfbe729fc
+*** Element info: {Using=xpath, value=//div[contains(@class,'unfocused') and text()='28']}
+28/10/2020 21:03:21 devpinoyLogger An exception occurs while clicking on WebElementnull
+28/10/2020 21:03:21 devpinoyLogger An exception occurs while getting elementno such element: Unable to locate element: {"method":"xpath","selector":"//button[text()='Save']"}
+  (Session info: chrome=86.0.4240.111)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'AMARENDRA', ip: '192.168.144.8', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.111, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\amarendra.singh\Ap...}, goog:chromeOptions: {debuggerAddress: localhost:64041}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: a140124a610248f74b9f0b9bfbe729fc
+*** Element info: {Using=xpath, value=//button[text()='Save']}
+28/10/2020 21:03:21 devpinoyLogger An exception occurs while clicking on WebElementnull
+28/10/2020 21:03:52 devpinoyLogger An exception occurs while getting elementno such element: Unable to locate element: {"method":"xpath","selector":"//header/div[1]/div[1]/div[1]/div[2]/div[1]/button[1]/span[1]/*[2]"}
+  (Session info: chrome=86.0.4240.111)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'AMARENDRA', ip: '192.168.144.8', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.111, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\amarendra.singh\Ap...}, goog:chromeOptions: {debuggerAddress: localhost:64041}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: a140124a610248f74b9f0b9bfbe729fc
+*** Element info: {Using=xpath, value=//header/div[1]/div[1]/div[1]/div[2]/div[1]/button[1]/span[1]/*[2]}
+28/10/2020 21:03:52 devpinoyLogger An exception occurs while clicking on WebElementnull
+28/10/2020 21:03:52 devpinoyLogger An exception occurs while getting elementno such element: Unable to locate element: {"method":"xpath","selector":"//span[contains(text(),'Edit Slots')]"}
+  (Session info: chrome=86.0.4240.111)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'AMARENDRA', ip: '192.168.144.8', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.111, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\amarendra.singh\Ap...}, goog:chromeOptions: {debuggerAddress: localhost:64041}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: a140124a610248f74b9f0b9bfbe729fc
+*** Element info: {Using=xpath, value=//span[contains(text(),'Edit Slots')]}
+28/10/2020 21:03:52 devpinoyLogger An exception occurs while scrolling the webpage using JavascriptExecutorjavascript error: Cannot read property 'scrollIntoView' of null
+  (Session info: chrome=86.0.4240.111)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'AMARENDRA', ip: '192.168.144.8', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.111, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\amarendra.singh\Ap...}, goog:chromeOptions: {debuggerAddress: localhost:64041}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: a140124a610248f74b9f0b9bfbe729fc
+28/10/2020 21:03:52 devpinoyLogger An exception occurs while getting elementno such element: Unable to locate element: {"method":"xpath","selector":"//span[contains(text(),'Edit Slots')]"}
+  (Session info: chrome=86.0.4240.111)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'AMARENDRA', ip: '192.168.144.8', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.111, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\amarendra.singh\Ap...}, goog:chromeOptions: {debuggerAddress: localhost:64041}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: a140124a610248f74b9f0b9bfbe729fc
+*** Element info: {Using=xpath, value=//span[contains(text(),'Edit Slots')]}
+28/10/2020 21:03:52 devpinoyLogger An exception occurs while clicking on WebElementnull
+02/11/2020 13:54:01 devpinoyLogger An exception occurs while getting elementno such element: Unable to locate element: {"method":"css selector","selector":".video-btn"}
+  (Session info: chrome=86.0.4240.111)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'AMARENDRA', ip: '192.168.144.8', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.111, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\amarendra.singh\Ap...}, goog:chromeOptions: {debuggerAddress: localhost:56746}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: fbecce0942609e24fb5671236d44c586
+*** Element info: {Using=css selector, value=.video-btn}
+02/11/2020 17:24:29 devpinoyLogger An exception occurs while getting elementno such element: Unable to locate element: {"method":"xpath","selector":"//div[contains(@class,'unfocused') and text()='02']"}
+  (Session info: chrome=86.0.4240.111)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'AMARENDRA', ip: '192.168.250.30', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.111, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\amarendra.singh\Ap...}, goog:chromeOptions: {debuggerAddress: localhost:56904}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 7a13b4736937d3eaff53a3e9e8e1500e
+*** Element info: {Using=xpath, value=//div[contains(@class,'unfocused') and text()='02']}
+02/11/2020 17:24:29 devpinoyLogger An exception occurs while clicking on WebElementnull
+02/11/2020 17:24:29 devpinoyLogger An exception occurs while getting elementunexpected alert open: {Alert text : Select dates to be edited!}
+  (Session info: chrome=86.0.4240.111): Select dates to be edited!
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'AMARENDRA', ip: '192.168.250.30', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.111, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\amarendra.singh\Ap...}, goog:chromeOptions: {debuggerAddress: localhost:56904}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 7a13b4736937d3eaff53a3e9e8e1500e
+*** Element info: {Using=xpath, value=//button[text()='Save']}
+02/11/2020 17:24:29 devpinoyLogger An exception occurs while clicking on WebElementnull
+02/11/2020 17:26:22 devpinoyLogger An exception occurs while getting elementno such element: Unable to locate element: {"method":"xpath","selector":"//div[contains(@class,'unfocused') and text()='02']"}
+  (Session info: chrome=86.0.4240.111)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'AMARENDRA', ip: '192.168.250.30', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.111, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\amarendra.singh\Ap...}, goog:chromeOptions: {debuggerAddress: localhost:57028}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 81b6ff120a51943350d65557a2f72438
+*** Element info: {Using=xpath, value=//div[contains(@class,'unfocused') and text()='02']}
+02/11/2020 17:26:22 devpinoyLogger An exception occurs while clicking on WebElementnull
+02/11/2020 17:26:22 devpinoyLogger An exception occurs while getting elementunexpected alert open: {Alert text : Select dates to be edited!}
+  (Session info: chrome=86.0.4240.111): Select dates to be edited!
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'AMARENDRA', ip: '192.168.250.30', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.111, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\amarendra.singh\Ap...}, goog:chromeOptions: {debuggerAddress: localhost:57028}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 81b6ff120a51943350d65557a2f72438
+*** Element info: {Using=xpath, value=//button[text()='Save']}
+02/11/2020 17:26:22 devpinoyLogger An exception occurs while clicking on WebElementnull
+02/11/2020 18:08:07 devpinoyLogger An exception occurs while getting elementno such element: Unable to locate element: {"method":"xpath","selector":"//div[contains(@class,'unfocused') and text()='02']"}
+  (Session info: chrome=86.0.4240.111)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'AMARENDRA', ip: '192.168.250.30', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.111, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\amarendra.singh\Ap...}, goog:chromeOptions: {debuggerAddress: localhost:55565}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 323d25a7aefe9629eaa7eb86600d819a
+*** Element info: {Using=xpath, value=//div[contains(@class,'unfocused') and text()='02']}
+02/11/2020 18:08:07 devpinoyLogger An exception occurs while clicking on WebElementnull
+02/11/2020 18:08:07 devpinoyLogger An exception occurs while getting elementunexpected alert open: {Alert text : Select dates to be edited!}
+  (Session info: chrome=86.0.4240.111): Select dates to be edited!
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'AMARENDRA', ip: '192.168.250.30', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.111, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\amarendra.singh\Ap...}, goog:chromeOptions: {debuggerAddress: localhost:55565}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 323d25a7aefe9629eaa7eb86600d819a
+*** Element info: {Using=xpath, value=//button[text()='Save']}
+02/11/2020 18:08:07 devpinoyLogger An exception occurs while clicking on WebElementnull
+02/11/2020 18:08:24 devpinoyLogger An exception occurs while getting elementno such element: Unable to locate element: {"method":"xpath","selector":"//div[contains(@class,'unfocused') and text()='02']"}
+  (Session info: chrome=86.0.4240.111)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'AMARENDRA', ip: '192.168.250.30', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.111, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\amarendra.singh\Ap...}, goog:chromeOptions: {debuggerAddress: localhost:55565}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 323d25a7aefe9629eaa7eb86600d819a
+*** Element info: {Using=xpath, value=//div[contains(@class,'unfocused') and text()='02']}
+02/11/2020 18:08:24 devpinoyLogger An exception occurs while clicking on WebElementnull
+02/11/2020 18:08:24 devpinoyLogger An exception occurs while getting elementunexpected alert open: {Alert text : Select dates to be edited!}
+  (Session info: chrome=86.0.4240.111): Select dates to be edited!
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'AMARENDRA', ip: '192.168.250.30', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.111, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\amarendra.singh\Ap...}, goog:chromeOptions: {debuggerAddress: localhost:55565}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 323d25a7aefe9629eaa7eb86600d819a
+*** Element info: {Using=xpath, value=//button[text()='Add']}
+02/11/2020 18:13:15 devpinoyLogger An exception occurs while getting elementno such element: Unable to locate element: {"method":"xpath","selector":"//div[contains(@class,'unfocused') and text()='02']"}
+  (Session info: chrome=86.0.4240.111)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'AMARENDRA', ip: '192.168.250.30', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.111, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\amarendra.singh\Ap...}, goog:chromeOptions: {debuggerAddress: localhost:55979}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: a0823aa86b0b3e53f1b0fc3559e10b4c
+*** Element info: {Using=xpath, value=//div[contains(@class,'unfocused') and text()='02']}
+02/11/2020 18:13:15 devpinoyLogger An exception occurs while clicking on WebElementnull
+02/11/2020 18:13:17 devpinoyLogger An exception occurs while getting elementno such element: Unable to locate element: {"method":"xpath","selector":"//div[contains(@class,'unfocused') and text()='02']"}
+  (Session info: chrome=86.0.4240.111)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'AMARENDRA', ip: '192.168.250.30', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.111, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\amarendra.singh\Ap...}, goog:chromeOptions: {debuggerAddress: localhost:55979}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: a0823aa86b0b3e53f1b0fc3559e10b4c
+*** Element info: {Using=xpath, value=//div[contains(@class,'unfocused') and text()='02']}
+02/11/2020 18:13:17 devpinoyLogger An exception occurs while clicking on WebElementnull
+02/11/2020 18:13:17 devpinoyLogger An exception occurs while getting elementunexpected alert open: {Alert text : Select dates to be edited!}
+  (Session info: chrome=86.0.4240.111): Select dates to be edited!
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'AMARENDRA', ip: '192.168.250.30', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.111, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\amarendra.singh\Ap...}, goog:chromeOptions: {debuggerAddress: localhost:55979}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: a0823aa86b0b3e53f1b0fc3559e10b4c
+*** Element info: {Using=xpath, value=//button[text()='Add']}
+03/11/2020 09:16:12 devpinoyLogger An exception occurs while getting elementno such element: Unable to locate element: {"method":"xpath","selector":"//header/div[1]/div[1]/div[1]/div[2]/div[1]/button[1]/span[1]/*[2]"}
+  (Session info: chrome=86.0.4240.111)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'AMARENDRA', ip: '192.168.144.8', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.111, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\amarendra.singh\Ap...}, goog:chromeOptions: {debuggerAddress: localhost:63322}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 11843588b36f94a1f6ef6db974692ce3
+*** Element info: {Using=xpath, value=//header/div[1]/div[1]/div[1]/div[2]/div[1]/button[1]/span[1]/*[2]}
+03/11/2020 09:16:12 devpinoyLogger An exception occurs while clicking on WebElementnull
+03/11/2020 09:16:12 devpinoyLogger An exception occurs while getting elementno such element: Unable to locate element: {"method":"xpath","selector":"//span[contains(text(),'Edit Slots')]"}
+  (Session info: chrome=86.0.4240.111)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'AMARENDRA', ip: '192.168.144.8', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.111, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\amarendra.singh\Ap...}, goog:chromeOptions: {debuggerAddress: localhost:63322}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 11843588b36f94a1f6ef6db974692ce3
+*** Element info: {Using=xpath, value=//span[contains(text(),'Edit Slots')]}
+03/11/2020 09:16:12 devpinoyLogger An exception occurs while scrolling the webpage using JavascriptExecutorjavascript error: Cannot read property 'scrollIntoView' of null
+  (Session info: chrome=86.0.4240.111)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'AMARENDRA', ip: '192.168.144.8', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.111, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\amarendra.singh\Ap...}, goog:chromeOptions: {debuggerAddress: localhost:63322}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 11843588b36f94a1f6ef6db974692ce3
+03/11/2020 09:16:12 devpinoyLogger An exception occurs while getting elementno such element: Unable to locate element: {"method":"xpath","selector":"//span[contains(text(),'Edit Slots')]"}
+  (Session info: chrome=86.0.4240.111)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'AMARENDRA', ip: '192.168.144.8', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.111, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\amarendra.singh\Ap...}, goog:chromeOptions: {debuggerAddress: localhost:63322}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 11843588b36f94a1f6ef6db974692ce3
+*** Element info: {Using=xpath, value=//span[contains(text(),'Edit Slots')]}
+03/11/2020 09:16:12 devpinoyLogger An exception occurs while clicking on WebElementnull
+03/11/2020 09:19:29 devpinoyLogger An exception occurs while getting elementno such element: Unable to locate element: {"method":"xpath","selector":"//header/div[1]/div[1]/div[1]/div[2]/div[1]/button[1]/span[1]/*[2]"}
+  (Session info: chrome=86.0.4240.111)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'AMARENDRA', ip: '192.168.144.8', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.111, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\amarendra.singh\Ap...}, goog:chromeOptions: {debuggerAddress: localhost:63528}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 68c5db620c99bd09b9ea0374d913cf2c
+*** Element info: {Using=xpath, value=//header/div[1]/div[1]/div[1]/div[2]/div[1]/button[1]/span[1]/*[2]}
+03/11/2020 09:19:29 devpinoyLogger An exception occurs while clicking on WebElementnull
+03/11/2020 09:19:29 devpinoyLogger An exception occurs while getting elementno such element: Unable to locate element: {"method":"xpath","selector":"//span[contains(text(),'Edit Slots')]"}
+  (Session info: chrome=86.0.4240.111)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'AMARENDRA', ip: '192.168.144.8', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.111, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\amarendra.singh\Ap...}, goog:chromeOptions: {debuggerAddress: localhost:63528}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 68c5db620c99bd09b9ea0374d913cf2c
+*** Element info: {Using=xpath, value=//span[contains(text(),'Edit Slots')]}
+03/11/2020 09:19:29 devpinoyLogger An exception occurs while scrolling the webpage using JavascriptExecutorjavascript error: Cannot read property 'scrollIntoView' of null
+  (Session info: chrome=86.0.4240.111)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'AMARENDRA', ip: '192.168.144.8', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.111, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\amarendra.singh\Ap...}, goog:chromeOptions: {debuggerAddress: localhost:63528}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 68c5db620c99bd09b9ea0374d913cf2c
+03/11/2020 09:19:29 devpinoyLogger An exception occurs while getting elementno such element: Unable to locate element: {"method":"xpath","selector":"//span[contains(text(),'Edit Slots')]"}
+  (Session info: chrome=86.0.4240.111)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'AMARENDRA', ip: '192.168.144.8', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.111, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\amarendra.singh\Ap...}, goog:chromeOptions: {debuggerAddress: localhost:63528}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 68c5db620c99bd09b9ea0374d913cf2c
+*** Element info: {Using=xpath, value=//span[contains(text(),'Edit Slots')]}
+03/11/2020 09:19:29 devpinoyLogger An exception occurs while clicking on WebElementnull

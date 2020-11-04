@@ -262,7 +262,7 @@ public class PatientAppoitnmentTest extends BasePage {
 
 		page.prescribe.clickOnPrescriptionDownloadLink();
 		switchTab(1);
-		pdfContent = page.emailUtill.readPDFContent(driver.getCurrentUrl());
+		pdfContent = page.emailUtill.readPDFContent(getDriver().getCurrentUrl());
 		Assert.assertTrue(pdfContent.contains(PatientInfo.patientName), "Verify the patient name on Prescription pdf");
 		Assert.assertTrue(pdfContent.contains(PatientInfo.sex), "Verify the patient gender on Prescription pdf");
 		Assert.assertTrue(pdfContent.contains(Integer.toString(PatientInfo.age)),

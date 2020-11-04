@@ -1,8 +1,10 @@
 package com.heyprescribe.page;
 
+import java.util.List;
 import java.util.Properties;
 
 import org.openqa.selenium.By;
+import org.openqa.selenium.WebElement;
 
 import com.heyprescribe.base.BasePage;
 import com.heyprescribe.data.PatientInfo;
@@ -20,6 +22,8 @@ public class BookAppoitnment extends BasePage {
 	}
 
 	By lstAppointmentDate = By.cssSelector("select[name='user_date']");
+	By lstAllAppointmentDate = By.cssSelector("select[name='user_date'] option");
+
 	By lstAvailableSlot = By.cssSelector("select[name='user_slot']");
 	By txtFirstName = By.cssSelector("input[name='first_name']");
 	By txtlastName = By.cssSelector("input[name='last_name']");
@@ -74,6 +78,19 @@ public class BookAppoitnment extends BasePage {
 			String[] appointment = { appointmentDate, appointmenSlot };
 			return appointment;
 		}
+	}
+
+	public boolean VerifyDoctorAvailability(String appointmentDate) throws InterruptedException {
+		WebElementExtension.getElement(lstAppointmentDate).click();
+		List<WebElement> allAppointmentDate = WebElementExtension.getElements(lstAllAppointmentDate);
+		boolean isFound = false;
+		for (int i = 0; i < allAppointmentDate.size(); i++) {
+			String date = allAppointmentDate.get(i).getText();
+			if (appointmentDate.equals(date))
+
+				isFound = true;
+		}
+		return isFound;
 	}
 
 	public void addingPatientDetail() {

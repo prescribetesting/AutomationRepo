@@ -22,7 +22,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 public class BasePage {
 	Properties prop;
 	private WebDriver dvr;
-	public static WebDriver driver;
+	// public static WebDriver driver;
 
 	public static Logger log = Logger.getLogger("devpinoyLogger");
 	private static final ThreadLocal<WebDriver> dr = new ThreadLocal<WebDriver>();
@@ -39,7 +39,7 @@ public class BasePage {
 		testReport.set(test);
 	}
 
-	protected static WebDriver getDriver() {
+	public static WebDriver getDriver() {
 		return dr.get();
 	}
 
@@ -83,21 +83,21 @@ public class BasePage {
 		setDriver(dvr);
 		getDriver().manage().window().maximize();
 		getDriver().manage().deleteAllCookies();
-		driver = getDriver();
+		// driver = getDriver();
 	}
 
 	public void tearDown() {
-		driver.close();
+		getDriver().close();
 	}
 
 	public void goToUrl(String url) {
-		driver.get(url);
+		getDriver().get(url);
 	}
 
 	public void switchTab(int tabPosition) {
 
-		ArrayList<String> tabs = new ArrayList<String>(driver.getWindowHandles());
+		ArrayList<String> tabs = new ArrayList<String>(getDriver().getWindowHandles());
 
-		driver.switchTo().window(tabs.get(tabPosition));
+		getDriver().switchTo().window(tabs.get(tabPosition));
 	}
 }

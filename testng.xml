@@ -8,7 +8,7 @@
   <test name="PatientAppoitnment">
    <parameter name = "browser" value="chrome"/>
     <classes>
-      <class name="com.heyprescribe.testcase.PatientAppoitnmentTest"/>
+      <class name="com.heyprescribe.testcase.EditSlotsTest"/>
     </classes>
   </test> <!-- PatientAppoitnment -->
   

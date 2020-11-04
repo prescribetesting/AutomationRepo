@@ -26,7 +26,7 @@ public class EmailUtill extends BasePage {
 
 	public void gmailLogin(String url, String userName, String password) {
 
-		driver.get(url);
+		getDriver().get(url);
 		WebDriverExtension.waitForElementVisible(txtbUserName);
 		WebElementExtension.sendKeys(txtbUserName, userName);
 		WebDriverExtension.waitForElementClickable(btnUnNext);
